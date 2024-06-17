@@ -1,4 +1,5 @@
 Feature: Automatización de pruebas de Inicio de sesión y modificación de datos de una empresa
+  como usuario con rol TE quiero iniciar sesión y realizar una modificación de un dato en una de mis empresas.
 
   Scenario: Iniciar Sesión con ROL TE
     Given Abro el navegador y navego a la página de inicio
